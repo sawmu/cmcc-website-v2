@@ -1,0 +1,501 @@
+/* font-size: calc(28px + (60 - 28) * (100vw - 375px) / (1900 - 375)); */
+
+.fs14 {
+    font-size: calc(12px + (14 - 12) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs15 {
+    font-size: calc(12px + (15 - 12) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs16 {
+    font-size: calc(13px + (16 - 13) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs17 {
+    font-size: calc(13px + (17 - 13) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs18 {
+    font-size: calc(14px + (18 - 14) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs19 {
+    font-size: calc(14px + (19 - 14) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs20 {
+    font-size: calc(15px + (20 - 15) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs21 {
+    font-size: calc(15px + (21 - 15) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs22 {
+    font-size: calc(16px + (22 - 16) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs23 {
+    font-size: calc(16px + (23 - 16) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs24 {
+    font-size: calc(17px + (24 - 17) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs25 {
+    font-size: calc(17px + (25 - 17) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs26 {
+    font-size: calc(18px + (26 - 18) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs27 {
+    font-size: calc(18px + (27 - 18) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs28 {
+    font-size: calc(19px + (28 - 19) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs29 {
+    font-size: calc(19px + (29 - 19) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs30 {
+    font-size: calc(20px + (30 - 20) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs31 {
+    font-size: calc(20px + (31 - 20) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs32 {
+    font-size: calc(21px + (32 - 21) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs33 {
+    font-size: calc(21px + (33 - 21) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs34 {
+    font-size: calc(21px + (34 - 21) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs35 {
+    font-size: calc(22px + (35 - 22) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs36 {
+    font-size: calc(22px + (36 - 22) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs37 {
+    font-size: calc(22px + (37 - 22) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs38 {
+    font-size: calc(23px + (38 - 23) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs39 {
+    font-size: calc(23px + (39 - 23) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs40 {
+    font-size: calc(23px + (40 - 23) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs41 {
+    font-size: calc(24px + (41 - 24) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs42 {
+    font-size: calc(24px + (42 - 24) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs43 {
+    font-size: calc(24px + (43 - 24) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs44 {
+    font-size: calc(25px + (44 - 25) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs45 {
+    font-size: calc(25px + (45 - 25) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs46 {
+    font-size: calc(25px + (46 - 25) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs47 {
+    font-size: calc(26px + (47 - 26) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs48 {
+    font-size: calc(26px + (48 - 26) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs49 {
+    font-size: calc(26px + (49 - 26) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs50 {
+    font-size: calc(27px + (50 - 27) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs55 {
+    font-size: calc(25px + (55 - 25) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs56 {
+    font-size: calc(25px + (56 - 25) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs60 {
+    font-size: calc(32px + (60 - 32) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs63 {
+    font-size: calc(33px + (63 - 33) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs65 {
+    font-size: calc(34px + (65 - 34) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs72 {
+    font-size: calc(36px + (72 - 36) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs75 {
+    font-size: calc(37px + (75 - 37) * (100vw - 375px) / (1900 - 375))
+}
+
+.fs83 {
+    font-size: calc(39px + (83 - 39) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt10 {
+    padding-top: calc(5px + (10 - 5) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt15 {
+    padding-top: calc(5px + (15 - 5) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt20 {
+    padding-top: calc(10px + (20 - 10) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt25 {
+    padding-top: calc(10px + (25 - 10) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt30 {
+    padding-top: calc(15px + (30 - 15) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt40 {
+    padding-top: calc(20px + (40 - 20) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt45 {
+    padding-top: calc(20px + (45 - 20) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt50 {
+    padding-top: calc(25px + (50 - 25) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt60 {
+    padding-top: calc(30px + (60 - 30) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt80 {
+    padding-top: calc(40px + (80 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt100 {
+    padding-top: calc(40px + (100 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt110 {
+    padding-top: calc(40px + (110 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt120 {
+    padding-top: calc(50px + (120 - 50) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt160 {
+    padding-top: calc(60px + (160 - 60) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt200 {
+    padding-top: calc(80px + (200 - 80) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdt250 {
+    padding-top: calc(150px + (250 - 150) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb10 {
+    padding-bottom: calc(5px + (10 - 5) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb15 {
+    padding-bottom: calc(5px + (15 - 5) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb20 {
+    padding-bottom: calc(10px + (20 - 10) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb25 {
+    padding-bottom: calc(10px + (25 - 10) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb30 {
+    padding-bottom: calc(15px + (30 - 15) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb40 {
+    padding-bottom: calc(20px + (40 - 20) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb45 {
+    padding-bottom: calc(20px + (45 - 20) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb50 {
+    padding-bottom: calc(25px + (50 - 25) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb60 {
+    padding-bottom: calc(30px + (60 - 30) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb80 {
+    padding-bottom: calc(40px + (80 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb100 {
+    padding-bottom: calc(40px + (100 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb110 {
+    padding-bottom: calc(40px + (110 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb120 {
+    padding-bottom: calc(50px + (120 - 50) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb160 {
+    padding-bottom: calc(60px + (160 - 60) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb200 {
+    padding-bottom: calc(80px + (200 - 80) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdb250 {
+    padding-bottom: calc(150px + (250 - 150) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl10 {
+    padding-left: calc(5px + (10 - 5) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl15 {
+    padding-left: calc(5px + (15 - 5) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl20 {
+    padding-left: calc(10px + (20 - 10) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl25 {
+    padding-left: calc(10px + (25 - 10) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl30 {
+    padding-left: calc(15px + (30 - 15) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl40 {
+    padding-left: calc(20px + (40 - 20) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl45 {
+    padding-left: calc(20px + (45 - 20) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl50 {
+    padding-left: calc(25px + (50 - 25) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl60 {
+    padding-left: calc(30px + (60 - 30) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl80 {
+    padding-left: calc(40px + (80 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl100 {
+    padding-left: calc(40px + (100 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl110 {
+    padding-left: calc(40px + (110 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl120 {
+    padding-left: calc(50px + (120 - 50) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl160 {
+    padding-left: calc(60px + (160 - 60) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl200 {
+    padding-left: calc(80px + (200 - 80) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdl250 {
+    padding-left: calc(150px + (250 - 150) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr10 {
+    padding-right: calc(5px + (10 - 5) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr15 {
+    padding-right: calc(5px + (15 - 5) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr20 {
+    padding-right: calc(10px + (20 - 10) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr25 {
+    padding-right: calc(10px + (25 - 10) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr30 {
+    padding-right: calc(15px + (30 - 15) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr40 {
+    padding-right: calc(20px + (40 - 20) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr45 {
+    padding-right: calc(20px + (45 - 20) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr50 {
+    padding-right: calc(25px + (50 - 25) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr60 {
+    padding-right: calc(30px + (60 - 30) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr80 {
+    padding-right: calc(40px + (80 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr100 {
+    padding-right: calc(40px + (100 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr110 {
+    padding-right: calc(40px + (110 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr120 {
+    padding-right: calc(50px + (120 - 50) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr160 {
+    padding-right: calc(60px + (160 - 60) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr200 {
+    padding-right: calc(80px + (200 - 80) * (100vw - 375px) / (1900 - 375))
+}
+
+.pdr250 {
+    padding-right: calc(150px + (250 - 150) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd10 {
+    padding: calc(5px + (10 - 5) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd15 {
+    padding: calc(5px + (15 - 5) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd20 {
+    padding: calc(10px + (20 - 10) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd25 {
+    padding: calc(10px + (25 - 10) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd30 {
+    padding: calc(15px + (30 - 15) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd40 {
+    padding: calc(20px + (40 - 20) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd45 {
+    padding: calc(20px + (45 - 20) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd50 {
+    padding: calc(25px + (50 - 25) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd60 {
+    padding: calc(30px + (60 - 30) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd80 {
+    padding: calc(40px + (80 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd100 {
+    padding: calc(40px + (100 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd110 {
+    padding: calc(40px + (110 - 40) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd120 {
+    padding: calc(50px + (120 - 50) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd160 {
+    padding: calc(60px + (160 - 60) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd200 {
+    padding: calc(80px + (200 - 80) * (100vw - 375px) / (1900 - 375))
+}
+
+.pd250 {
+    padding: calc(150px + (250 - 150) * (100vw - 375px) / (1900 - 375))
+}
